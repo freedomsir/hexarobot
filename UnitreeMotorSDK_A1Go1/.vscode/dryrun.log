@@ -1,0 +1,34 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+/usr/bin/cmake -H/home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 -B/home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles/progress.marks
+make -f CMakeFiles/Makefile2 all
+make[1]: Entering directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+make -f CMakeFiles/test_motor.dir/build.make CMakeFiles/test_motor.dir/depend
+make[2]: Entering directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+cd /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles/test_motor.dir/DependInfo.cmake --color=
+make[2]: Leaving directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+make -f CMakeFiles/test_motor.dir/build.make CMakeFiles/test_motor.dir/build
+make[2]: Entering directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles --progress-num=3 "Building CXX object CMakeFiles/test_motor.dir/src/test_motor.cpp.o"
+/usr/bin/c++   -I/home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/include  -O3 -march=native -Wall   -o CMakeFiles/test_motor.dir/src/test_motor.cpp.o -c /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/src/test_motor.cpp
+/usr/bin/cmake -E cmake_echo_color --switch= --green --bold --progress-dir=/home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles --progress-num=4 "Linking CXX executable test_motor"
+/usr/bin/cmake -E cmake_link_script CMakeFiles/test_motor.dir/link.txt --verbose=
+make[2]: Leaving directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+/usr/bin/cmake -E cmake_echo_color --switch= --progress-dir=/home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles --progress-num=3,4 "Built target test_motor"
+make -f CMakeFiles/changeID.dir/build.make CMakeFiles/changeID.dir/depend
+make[2]: Entering directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+cd /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423 /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles/changeID.dir/DependInfo.cmake --color=
+make[2]: Leaving directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+make -f CMakeFiles/changeID.dir/build.make CMakeFiles/changeID.dir/build
+make[2]: Entering directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles --progress-num=1 "Building CXX object CMakeFiles/changeID.dir/src/changeID.cpp.o"
+/usr/bin/c++   -I/home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/include  -O3 -march=native -Wall   -o CMakeFiles/changeID.dir/src/changeID.cpp.o -c /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/src/changeID.cpp
+/usr/bin/cmake -E cmake_echo_color --switch= --green --bold --progress-dir=/home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles --progress-num=2 "Linking CXX executable changeID"
+/usr/bin/cmake -E cmake_link_script CMakeFiles/changeID.dir/link.txt --verbose=
+make[2]: Leaving directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+/usr/bin/cmake -E cmake_echo_color --switch= --progress-dir=/home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles --progress-num=1,2 "Built target changeID"
+make[1]: Leaving directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+/usr/bin/cmake -E cmake_progress_start /home/suibian/桌面/UnitreeMotorSDK_A1Go1_Sup220423/CMakeFiles 0
+make: Leaving directory '/home/suibian/桌面/UnitreeMotorSDK_A1Go1'
+ 

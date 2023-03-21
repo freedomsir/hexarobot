@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -march=native -Wall  -rdynamic CMakeFiles/changeID.dir/src/changeID.cpp.o  -o changeID  -L/home/suibian/桌面/UnitreeMotorSDK_A1Go1/lib -Wl,-rpath,/home/suibian/桌面/UnitreeMotorSDK_A1Go1/lib -lunitreeMotorSDK_Linux64 

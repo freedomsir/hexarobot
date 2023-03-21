@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -march=native -Wall  -rdynamic CMakeFiles/test_motor.dir/src/test_motor.cpp.o  -o test_motor  -L/home/suibian/桌面/UnitreeMotorSDK_A1Go1/lib -Wl,-rpath,/home/suibian/桌面/UnitreeMotorSDK_A1Go1/lib -lunitreeMotorSDK_Linux64 
